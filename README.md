@@ -48,7 +48,7 @@ Currently Having knowledge to create web automation using Cucumber Selenium Java
 <p>
      <a href="https://www.instagram.com/faisalfajarrbn/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
     <a href="https://www.youtube.com/channel/UCb3k2nxT46GWTCB0_VCndgg" target="blank"><img src="https://img.shields.io/badge/-youtube-181717?style=for-the-badge&logo=youtube" /></a>
-<a href="https://faisalfajarrbn-portofolio.web.app/home/" target="blank"><img src="https://img.shields.io/badge/Website-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+<a href="https://faisalfajarrbn-portofolio.web.app/" target="blank"><img src="https://img.shields.io/badge/Website-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
 </p>
 
 
