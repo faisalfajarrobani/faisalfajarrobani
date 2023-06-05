@@ -34,7 +34,6 @@ Currently Having knowledge to create web automation using Cucumber Selenium Java
 
 ## 🔨Tools
 ![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
-![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
 ![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
 ![Jira](https://img.shields.io/badge/-jira-181717?style=for-the-badge&logo=jira)
